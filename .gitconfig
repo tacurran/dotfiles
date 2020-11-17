@@ -1,0 +1,5 @@
+[user]
+	name = tacurran
+	email = thomas@ory.sh
+[core]
+	excludesfile = /Users/tacurran/.gitignore
